@@ -1,0 +1,21 @@
+.title{
+    color: darkblue;
+  }
+
+body{
+    margin: 0;
+    padding: 25px;
+    background-color: white;
+    color: white;
+  
+}
+.nav-link{
+    color: red;
+}
+
+.container{
+    text-align: center;
+}
+.carousel-text{
+    color: black;
+}
