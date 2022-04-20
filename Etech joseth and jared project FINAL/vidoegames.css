@@ -1,0 +1,25 @@
+
+.card{
+    color: rgb(255, 0, 255)
+}
+
+.subheading{
+    color: rgb(242, 255, 0);
+}
+.title{
+    color:  rgb(242, 255, 0);
+}
+.nav{
+    text-align: center;
+    
+}
+.container{
+    text-align: center;
+    
+}
+.disclaimer{
+    color: orange;
+}
+.nav-link{
+    color: rgb(242, 255, 0);
+}
